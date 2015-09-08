@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ConventionsAndSyntax.cs" />
      <Compile Include="Assets\VandF2.cs" />
      <Compile Include="Assets\VandF3.cs" />
      <Compile Include="Assets\VandF4.cs" />
