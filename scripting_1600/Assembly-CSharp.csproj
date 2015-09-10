@@ -48,6 +48,8 @@
   <ItemGroup>
      <Compile Include="Assets\ConventionsAndSyntax.cs" />
      <Compile Include="Assets\IfStatements.cs" />
+     <Compile Include="Assets\VandF2.cs" />
+     <Compile Include="Assets\VandF3.cs" />
      <Compile Include="Assets\VandF5.cs" />
      <Compile Include="Assets\VariablesAndFunctions.cs" />
  <Reference Include="UnityEngine.UI">
