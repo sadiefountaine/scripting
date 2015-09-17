@@ -52,6 +52,7 @@
      <Compile Include="Assets\VandF5.cs" />
      <Compile Include="Assets\VariablesAndFunctions.cs" />
      <Compile Include="Assets\gitbranch test script.cs" />
+     <Compile Include="Assets\githubBranch.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
