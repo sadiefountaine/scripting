@@ -50,14 +50,10 @@
      <Compile Include="Assets\VandF2.cs" />
      <Compile Include="Assets\VandF3.cs" />
      <Compile Include="Assets\VandF5.cs" />
-<<<<<<< HEAD
      <Compile Include="Assets\VariablesAndFunctions.cs" />
+     <Compile Include="Assets\conventionsandsyntaxpassoff.cs" />
      <Compile Include="Assets\gitbranch test script.cs" />
      <Compile Include="Assets\githubBranch.cs" />
-=======
-     <Compile Include="Assets\VariablesandFunctions.cs" />
-     <Compile Include="Assets\conventionsandsyntaxpassoff.cs" />
->>>>>>> 30f6a6767c601bacc4735021a1cf86342845d67d
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
