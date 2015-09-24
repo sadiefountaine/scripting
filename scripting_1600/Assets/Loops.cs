@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Loops : MonoBehaviour 
 {
-	//For Loop
+//For Loop
 	/*
 	int cake = 10;
 
@@ -17,7 +17,8 @@ public class Loops : MonoBehaviour
 	}
 	 */
 
-	//While Loop
+//While Loop
+	/*
 	int cakeInHand = 5;
 
 	void Start()
@@ -26,6 +27,34 @@ public class Loops : MonoBehaviour
 		{
 			Debug.Log ("I'm going to eat the cake");
 			cakeInHand--;
+		}
+	}
+	*/
+
+//Do While Loop
+	/*
+	void Start ()
+	{
+		bool keepGoing = false;
+
+		do {
+			print ("Cake");
+		} while (keepGoing == true);
+	}
+	*/
+//For Each Loop
+
+	void Start ()
+	{
+		string[] cookies = new string[3];
+
+		cookies[0] = "First cookie";
+		cookies[1] = "Second cookie";
+		cookies[2] = "Third cookie";
+
+		foreach (string item in cookies) 
+		{
+			print (item);
 		}
 	}
 }
