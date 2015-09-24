@@ -3,27 +3,27 @@ using System.Collections;
 
 public class IfSatatements : MonoBehaviour
 {
-	public float CarSpeed = 102;
-	public float TooSlow = 15;
+	public float Battery = 100f;
+	public float NeedsPower = 20f;
 
 	void Update ()
 	{
 		if (Input.GetKeyDown (KeyCode.Space))
-			TemperatureTest ();
-		CarSpeed -= Time.deltaTime * 2;
+			PowerTest ();
+		Battery -= Time.deltaTime * 8;
 	}
 
-	void TemperatureTest ()
+	void PowerTest ()
 	{
-		// Car speed less than too slow.
-		if (CarSpeed < TooSlow) 
+		// Battery if it needs power.
+		if (Battery < NeedsPower) 
 		{
-			print ("You shouldn't be on the road at this speed.");
+			print ("Battery low");
 		}
-		// Car speed if it isn't too slow.
+		// Battery is fully charged.
 		else 
 		{
-			print ("You're going to get pulled over");
+			print ("100% Power");
 		}
 	}
 }

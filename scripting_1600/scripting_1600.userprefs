@@ -1,19 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-<<<<<<< HEAD
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\gitbranch test script.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\IfSatatements.cs">
     <Files>
-      <File FileName="Assets\gitbranch test script.cs" Line="1" Column="1" />
-=======
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\conventionsandsyntaxpassoff.cs">
-    <Files>
-<<<<<<< HEAD
-      <File FileName="Assets\conventionsandsyntaxpassoff.cs" Line="10" Column="46" />
-=======
-      <File FileName="Assets\conventionsandsyntaxpassoff.cs" Line="11" Column="42" />
-      <File FileName="Assets\ConventionsAndSyntax.cs" Line="1" Column="1" />
->>>>>>> 30f6a6767c601bacc4735021a1cf86342845d67d
->>>>>>> 1f1d4655c86a41b73f3bf449b74230db787569a9
+      <File FileName="Assets\IfSatatements.cs" Line="29" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
