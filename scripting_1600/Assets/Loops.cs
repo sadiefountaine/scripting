@@ -4,7 +4,7 @@ using System.Collections;
 public class Loops : MonoBehaviour 
 {
 //For Loop
-	/*
+
 	int cake = 10;
 
 	void Start ()
@@ -15,7 +15,7 @@ public class Loops : MonoBehaviour
 			Debug.Log("Cutting cake number:" + i);
 		}
 	}
-	 */
+
 
 //While Loop
 	/*
@@ -29,8 +29,8 @@ public class Loops : MonoBehaviour
 			cakeInHand--;
 		}
 	}
-	*/
 
+*/
 //Do While Loop
 	/*
 	void Start ()
@@ -41,9 +41,9 @@ public class Loops : MonoBehaviour
 			print ("Cake");
 		} while (keepGoing == true);
 	}
-	*/
+*/
 //For Each Loop
-
+/*
 	void Start ()
 	{
 		string[] cookies = new string[3];
@@ -56,5 +56,5 @@ public class Loops : MonoBehaviour
 		{
 			print (item);
 		}
-	}
+	}*/
 }
