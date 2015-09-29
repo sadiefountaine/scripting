@@ -49,6 +49,7 @@
      <Compile Include="Assets\ConventionsAndSyntax.cs" />
      <Compile Include="Assets\IfSatatements.cs" />
      <Compile Include="Assets\Loops.cs" />
+     <Compile Include="Assets\ScopeAndAccessModifiers.cs" />
      <Compile Include="Assets\VandF5.cs" />
      <Compile Include="Assets\VariablesandFunctions.cs" />
      <Compile Include="Assets\conventionsandsyntaxpassoff.cs" />
