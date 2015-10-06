@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\AnotherClass.cs" />
      <Compile Include="Assets\ConventionsAndSyntax.cs" />
+     <Compile Include="Assets\DataTypes.cs" />
      <Compile Include="Assets\IfSatatements.cs" />
      <Compile Include="Assets\Loops.cs" />
      <Compile Include="Assets\ScopeAndAccessModifiers.cs" />

@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ScopeAndAccessModifiers.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DataTypes.cs">
     <Files>
-      <File FileName="Assets\ScopeAndAccessModifiers.cs" Line="27" Column="17" />
-      <File FileName="Assets\AnotherClass.cs" Line="7" Column="19" />
+      <File FileName="Assets\DataTypes.cs" Line="14" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
