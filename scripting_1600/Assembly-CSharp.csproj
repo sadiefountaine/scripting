@@ -46,18 +46,19 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\AnotherClass.cs" />
-     <Compile Include="Assets\ConventionsAndSyntax.cs" />
-     <Compile Include="Assets\DataTypes.cs" />
-     <Compile Include="Assets\IfSatatements.cs" />
-     <Compile Include="Assets\Loops.cs" />
-     <Compile Include="Assets\ScopeAndAccessModifiers.cs" />
+     <Compile Include="Assets\Arrays.cs" />
      <Compile Include="Assets\SphereDuckScript.cs" />
-     <Compile Include="Assets\VandF5.cs" />
-     <Compile Include="Assets\VariablesandFunctions.cs" />
-     <Compile Include="Assets\conventionsandsyntaxpassoff.cs" />
-     <Compile Include="Assets\gitbranch test script.cs" />
-     <Compile Include="Assets\githubBranch.cs" />
+     <Compile Include="Assets\Tutorials\AnotherClass.cs" />
+     <Compile Include="Assets\Tutorials\ConventionsAndSyntax.cs" />
+     <Compile Include="Assets\Tutorials\DataTypes.cs" />
+     <Compile Include="Assets\Tutorials\IfSatatements.cs" />
+     <Compile Include="Assets\Tutorials\Loops.cs" />
+     <Compile Include="Assets\Tutorials\ScopeAndAccessModifiers.cs" />
+     <Compile Include="Assets\Tutorials\VandF5.cs" />
+     <Compile Include="Assets\Tutorials\VariablesandFunctions.cs" />
+     <Compile Include="Assets\Tutorials\conventionsandsyntaxpassoff.cs" />
+     <Compile Include="Assets\Tutorials\gitbranch test script.cs" />
+     <Compile Include="Assets\Tutorials\githubBranch.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
