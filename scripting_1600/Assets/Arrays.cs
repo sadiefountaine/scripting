@@ -11,7 +11,7 @@ public class Arrays : MonoBehaviour
 
 		for (int i = 0; i < characters.Length; i++) 
 		{
-			Debug.Log ("Character Number "+ i +" is named" +characters[i].name);
+			Debug.Log ("Character Number "+ i +" is named" + characters[i].name);
 		}
 	}
 }
