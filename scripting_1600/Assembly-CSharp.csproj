@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Arrays.cs" />
+     <Compile Include="Assets\ConversationScript.cs" />
      <Compile Include="Assets\Enumerations.cs" />
      <Compile Include="Assets\SphereDuckScript.cs" />
      <Compile Include="Assets\Tutorials\AnotherClass.cs" />
