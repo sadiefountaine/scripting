@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+/*
+using UnityEngine;
 using System.Collections;
 
 public class Arrays : MonoBehaviour
@@ -15,3 +16,4 @@ public class Arrays : MonoBehaviour
 		}
 	}
 }
+*/

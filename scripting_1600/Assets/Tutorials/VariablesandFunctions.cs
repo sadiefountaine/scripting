@@ -1,7 +1,8 @@
-﻿using UnityEngine;
+﻿/*
+using UnityEngine;
 using System.Collections;
 
-public class VariablesAndFunctions : MonoBehaviour 
+public class VariablesAndFunctions : MonoBehaviour
 {
 
 	int example = 15;
@@ -24,3 +25,4 @@ public class VariablesAndFunctions : MonoBehaviour
 		return ret;
 	}
 }
+*/

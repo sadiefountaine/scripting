@@ -1,3 +1,4 @@
+/*
 using UnityEngine;
 using System.Collections;
 
@@ -37,3 +38,4 @@ public class ScopeAndAccessModifiers : MonoBehaviour
 		//I tested this in Unity, and because I added car and bus and truck, the car is set to 402. It was originally just car, which made the car set to 4. This repeats infinitely in the script... and Im not sure why except that I never told it to stop so... I guess it doesn't.
 	}
 }
+*/

@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿/*
+using UnityEngine;
 using System.Collections;
 
 public class IfSatatements : MonoBehaviour
@@ -27,3 +28,4 @@ public class IfSatatements : MonoBehaviour
 		}
 	}
 }
+*/

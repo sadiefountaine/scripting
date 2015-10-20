@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿/*
+using UnityEngine;
 using System.Collections;
 
 public class ConventionsAndSyntax : MonoBehaviour 
@@ -18,3 +19,4 @@ public class ConventionsAndSyntax : MonoBehaviour
 	// Update is called once per frame
 	//void Update () 
 }
+*/

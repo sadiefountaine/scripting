@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿/*
+using UnityEngine;
 using System.Collections;
 
 public class Loops : MonoBehaviour 
@@ -18,7 +19,7 @@ public class Loops : MonoBehaviour
 
 
 //While Loop
-	/*
+
 	int cakeInHand = 5;
 
 	void Start()
@@ -30,9 +31,9 @@ public class Loops : MonoBehaviour
 		}
 	}
 
-*/
+
 //Do While Loop
-	/*
+	
 	void Start ()
 	{
 		bool keepGoing = false;
@@ -41,9 +42,9 @@ public class Loops : MonoBehaviour
 			print ("Cake");
 		} while (keepGoing == true);
 	}
-*/
+
 //For Each Loop
-/*
+	
 	void Start ()
 	{
 		string[] cookies = new string[3];
@@ -56,5 +57,6 @@ public class Loops : MonoBehaviour
 		{
 			print (item);
 		}
-	}*/
+	}
 }
+*/

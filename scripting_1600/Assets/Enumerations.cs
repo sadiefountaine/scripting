@@ -7,9 +7,9 @@ public class Enumerations : MonoBehaviour
 
 	void Start () 
 	{
-		Animals myAnimals;
+		//Animals myAnimals;
 
-		myAnimals = Animals.Cat;
+		//myAnimals = Animals.Cat;
 	}
 	
 

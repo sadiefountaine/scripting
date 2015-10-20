@@ -46,11 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Arrays.cs" />
      <Compile Include="Assets\ConversationScript.cs" />
-     <Compile Include="Assets\Duck_Hunt_Stuff\SphereDuckScript.cs" />
+     <Compile Include="Assets\Duck_Hunt_Stuff\Duck_Arrays.cs" />
      <Compile Include="Assets\Enumerations.cs" />
      <Compile Include="Assets\Tutorials\AnotherClass.cs" />
+     <Compile Include="Assets\Tutorials\Arrays.cs" />
      <Compile Include="Assets\Tutorials\ConventionsAndSyntax.cs" />
      <Compile Include="Assets\Tutorials\DataTypes.cs" />
      <Compile Include="Assets\Tutorials\IfSatatements.cs" />

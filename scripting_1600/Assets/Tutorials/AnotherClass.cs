@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+/*
+using UnityEngine;
 using System.Collections;
 
 public class AnotherClass
@@ -29,4 +30,5 @@ public class AnotherClass
 	}
 	
 }
+*/
 //for some reason Unity is not recognizing this Class. ScopeAndAccessModifiers still works, but this wont.
