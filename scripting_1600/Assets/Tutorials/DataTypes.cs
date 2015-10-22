@@ -1,5 +1,4 @@
-﻿/*
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
 public class DataTypes : MonoBehaviour
@@ -17,4 +16,3 @@ public class DataTypes : MonoBehaviour
 	}
 
 }
-*/
