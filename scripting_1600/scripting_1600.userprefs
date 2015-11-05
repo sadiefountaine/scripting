@@ -1,12 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Duck_Hunt_Stuff\Capsule.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Duck_Hunt_Stuff\Destroy_Duck.cs">
     <Files>
-      <File FileName="Assets\Duck_Hunt_Stuff\Duck_Arrays.cs" Line="15" Column="69" />
-      <File FileName="Assets\Classes.cs" Line="1" Column="1" />
-      <File FileName="Assets\ConversationScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Enumerations.cs" Line="1" Column="1" />
-      <File FileName="Assets\Duck_Hunt_Stuff\Capsule.cs" Line="15" Column="35" />
+      <File FileName="scripting_1600.sln" Line="1" Column="1" />
+      <File FileName="Assets\Duck_Hunt_Stuff\Destroy_Duck.cs" Line="14" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

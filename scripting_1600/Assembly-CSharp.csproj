@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Classes.cs" />
      <Compile Include="Assets\ConversationScript.cs" />
+     <Compile Include="Assets\Duck_Hunt_Stuff\Destroy.cs" />
      <Compile Include="Assets\Duck_Hunt_Stuff\Duck_Arrays.cs" />
      <Compile Include="Assets\Enumerations.cs" />
      <Compile Include="Assets\Tutorials\AnotherClass.cs" />
