@@ -1,9 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Duck_Hunt_Stuff\Destroy_Duck.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Duck_Hunt_Stuff\Duck_Move.cs">
     <Files>
-      <File FileName="scripting_1600.sln" Line="1" Column="1" />
-      <File FileName="Assets\Duck_Hunt_Stuff\Destroy_Duck.cs" Line="14" Column="1" />
+      <File FileName="Assets\Duck_Hunt_Stuff\Destroy.cs" Line="11" Column="4" />
+      <File FileName="Assets\Duck_Hunt_Stuff\Duck_Arrays.cs" Line="1" Column="1" />
+      <File FileName="Assets\Duck_Hunt_Stuff\Duck_Move.cs" Line="14" Column="25" />
+      <File FileName="Assets\Duck_Hunt_Stuff\Hunter_Move.cs" Line="22" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
