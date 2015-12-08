@@ -15,6 +15,6 @@ public class Invoke : MonoBehaviour
 		{
 		float x = Random.Range (-151.0f, 10.0f);
 		float z = Random.Range (-151.0f, 10.0f);
-		Instantiate(Duck, new Vector3(x, 2, z), Quaternion.identity);
+		Instantiate(Duck, new Vector3(x, -89, -300), Quaternion.identity);
 		}
 }

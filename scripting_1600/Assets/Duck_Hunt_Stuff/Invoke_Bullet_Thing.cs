@@ -7,8 +7,7 @@ public class Invoke_Bullet_Thing : MonoBehaviour
 	
 	void Start()
 	{
-		if (Input.GetKeyDown (KeyCode.Space))
-			SpawnObject ();
+		InvokeRepeating ("SpawnObject", 1, 4);
 
 	}
 	
