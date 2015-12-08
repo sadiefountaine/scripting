@@ -51,6 +51,8 @@
      <Compile Include="Assets\Duck_Hunt_Stuff\Destroy.cs" />
      <Compile Include="Assets\Duck_Hunt_Stuff\Duck_Arrays.cs" />
      <Compile Include="Assets\Duck_Hunt_Stuff\Hunter_Move.cs" />
+     <Compile Include="Assets\Duck_Hunt_Stuff\Invoke.cs" />
+     <Compile Include="Assets\Duck_Hunt_Stuff\Invoke_Bullet_Thing.cs" />
      <Compile Include="Assets\Duck_Hunt_Stuff\Shooting_Stuff.cs" />
      <Compile Include="Assets\Enumerations.cs" />
      <Compile Include="Assets\Tutorials\AnotherClass.cs" />
