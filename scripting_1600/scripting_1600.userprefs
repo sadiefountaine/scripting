@@ -1,13 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Duck_Hunt_Stuff\Shooting_Stuff.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Duck_Hunt_Stuff\Invoke_Bullet_Thing.cs">
     <Files>
-      <File FileName="Assets\Duck_Hunt_Stuff\Invoke.cs" Line="18" Column="69" />
       <File FileName="Assets\Duck_Hunt_Stuff\Shooting_Stuff.cs" Line="6" Column="32" />
-      <File FileName="Assets\Duck_Hunt_Stuff\Destroy.cs" Line="10" Column="25" />
+      <File FileName="Assets\Duck_Hunt_Stuff\Destroy.cs" Line="1" Column="1" />
       <File FileName="Assets\Duck_Hunt_Stuff\Hunter_Move.cs" Line="1" Column="1" />
       <File FileName="Assets\Duck_Hunt_Stuff\Duck_Arrays.cs" Line="1" Column="1" />
-      <File FileName="Assets\Duck_Hunt_Stuff\Invoke_Bullet_Thing.cs" Line="16" Column="1" />
+      <File FileName="Assets\Duck_Hunt_Stuff\Invoke_Bullet_Thing.cs" Line="15" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

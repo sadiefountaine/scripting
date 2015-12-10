@@ -3,18 +3,16 @@ using System.Collections;
 
 public class Invoke_Bullet_Thing : MonoBehaviour
 {
-	public GameObject Bullet;
+	public Rigidbody Rocket;
+	public Transform barrelEnd;
 	
-	void Start()
+	void Update()
 	{
-		InvokeRepeating ("SpawnObject", 1, 4);
-
-	}
-	
-	void SpawnObject()
-	{
-		float x = Random.Range (-2.0f, 2.0f);
-		float z = Random.Range (-2.0f, 2.0f);
-		Instantiate(Bullet, new Vector3(-3, -193, -253), Quaternion.identity);
+		if (Input.GetButtonDown ("Space"))
+		{
+			Rigidbody RocketInstance;
+			RocketInstance = Instantiate (Rocket, barrelEnd.position, barrelEnd.rotation) as Rigidbody;
+			Rocket.AddForce (barrelEnd.forward * 5000);
+		}
 	}
 }
