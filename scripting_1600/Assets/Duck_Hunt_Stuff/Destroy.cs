@@ -5,9 +5,9 @@ public class Destroy : MonoBehaviour
 {
 	void Update ()
 	{
-		if(Input.GetKey (KeyCode.Space))
+		if(Input.GetKeyDown ("Fire1"))
 		{
-			Destroy(gameObject, 1);
+			Destroy(gameObject);
 		}
 	}
 }
