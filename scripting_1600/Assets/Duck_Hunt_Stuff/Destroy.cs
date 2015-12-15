@@ -7,7 +7,7 @@ public class Destroy : MonoBehaviour
 	{
 		if(Input.GetKeyDown ("Fire1"))
 		{
-			Destroy(gameObject);
+			Destroy(gameObject, 5f);
 		}
 	}
 }

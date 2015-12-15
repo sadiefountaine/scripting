@@ -8,7 +8,7 @@ public class Invoke : MonoBehaviour
 
 	void Start()
 		{
-			InvokeRepeating ("SpawnObject", 1, 5);
+			InvokeRepeating ("SpawnObject", 1, 2);
 		}
 
 	void SpawnObject()
